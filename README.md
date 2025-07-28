@@ -20,7 +20,7 @@ Performed exploratory data analysis on job listings to identify trends in the da
 
 📂 Tools: Excel (Pivot Tables, Charts, Data Cleaning)
 
-🔗 [View Project Repository]()
+🔗 [View Project Repository](https://github.com/denger69/Data_Analytics_Project.git)
 
 ## 📫 How to reach me
 - 💼 [LinkedIn](www.linkedin.com/in/mohitkumarsingh008) 
