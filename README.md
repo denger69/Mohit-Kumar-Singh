@@ -26,6 +26,4 @@ Performed exploratory data analysis on job listings to identify trends in the da
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohitkumarsingh008/) 
 - 📧 Email: mohitmnq568@gmail.com
 
----
 
-> _“Consistency is the key to success.”_
