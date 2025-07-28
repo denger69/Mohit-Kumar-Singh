@@ -23,7 +23,7 @@ Performed exploratory data analysis on job listings to identify trends in the da
 🔗 [View Project Repository](https://github.com/denger69/Data_Analytics_Project.git)
 
 ## 📫 How to reach me
-- 💼 [LinkedIn](www.linkedin.com/in/mohitkumarsingh008) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohitkumarsingh008/) 
 - 📧 Email: mohitmnq568@gmail.com
 
 ---
